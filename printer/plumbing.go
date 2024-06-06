@@ -5,7 +5,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/mibk/dupl/syntax"
+	"github.com/jubenitezg/dupl/syntax"
 )
 
 type plumbing struct {

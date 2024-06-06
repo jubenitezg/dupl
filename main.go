@@ -11,9 +11,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/mibk/dupl/job"
-	"github.com/mibk/dupl/printer"
-	"github.com/mibk/dupl/syntax"
+	"github.com/jubenitezg/dupl/job"
+	"github.com/jubenitezg/dupl/printer"
+	"github.com/jubenitezg/dupl/syntax"
 )
 
 const defaultThreshold = 15

@@ -1,3 +1,3 @@
-module github.com/mibk/dupl
+module github.com/jubenitezg/dupl
 
-go 1.14
+go 1.22
